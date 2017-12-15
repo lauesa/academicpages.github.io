@@ -10,4 +10,8 @@ redirect_from:
 
 Hello there! I'm currently looking to transition to this cleaner looking site. Until I get things up and running please bear with most of the naviagtion being on the front page.
 
+* [Reddit](reddit.com)
+* [UTA Mail](http://www.outlook.com/mavs.uta.edu)
+* [MyMav](https://www.uta.edu/mymav/)
+
 
