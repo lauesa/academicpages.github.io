@@ -15,3 +15,4 @@ Hello there! I'm currently looking to transition to this cleaner looking site. U
 * [MyMav](https://www.uta.edu/mymav/ "MyMav")
 
 
+[Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
