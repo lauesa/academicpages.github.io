@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Schloss"
+title                    : "Scott Laue"
 title_separator          : "-"
 name                     : &name "Scott Laue"
 description              : &description "A Small Personal Website"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Scott Laue"
   avatar           : "photo.JPG"
-  bio              : "Research Assistant"
-  location         : "Location"
+  bio              : "Vice President of UTA ACM Local Chapter and Research Assistant to Dr. Jia Rao"
+  location         : "Arlington, TX"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : scott.laue@mavs.uta.edu
