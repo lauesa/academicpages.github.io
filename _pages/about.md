@@ -10,9 +10,9 @@ redirect_from:
 
 Hello there! I'm currently looking to transition to this cleaner looking site. Until I get things up and running please bear with most of the naviagtion being on the front page.
 
-* [Reddit](reddit.com "Reddit")
-* [MavMail](http://www.outlook.com/mavs.uta.edu "MavMail")
-* [MyMav](https://www.uta.edu/mymav/ "MyMav")
+[Reddit](reddit.com)
+[MavMail](http://www.outlook.com/mavs.uta.edu/)
+[MyMav](https://www.uta.edu/mymav/)
 
 
 [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
