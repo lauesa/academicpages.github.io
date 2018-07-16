@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Scott Laue"
   avatar           : "photo.JPG"
-  bio              : "Vice President of UTA ACM Local Chapter and Research Assistant to Dr. Jia Rao"
+  bio              : "President of UTA ACM Local Chapter"
   location         : "Arlington, TX"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : scott.laue@mavs.uta.edu
   uri              :
   bitbucket        :
@@ -97,8 +97,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/scott-laue"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
