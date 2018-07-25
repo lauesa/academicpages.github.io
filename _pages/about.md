@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Landing"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I'm currently looking to transition to this cleaner looking site. Until I get things up and running please bear with most of the naviagtion being on the front page.
-
-[Reddit](http://www.reddit.com/)
-
-[MavMail](http://www.outlook.com/mavs.uta.edu/)
-
-[MyMav](https://www.uta.edu/mymav/)
+Hello there! Thanks for dropping by. This site is intended to be a type of digital resume and quick refererence for my ongoing commitments. Commissioned projects will not be hosted here.
